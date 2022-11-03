@@ -1,0 +1,19 @@
+liron lim cheat sheet
+
+special limits 
+
+sin(x)/x = 1, x -> 0
+
+(1-cos(x))/x = 0, x-> 0
+
+(1+x)^(1/x) = e, x-> 0
+
+(1+1/x)^x = e, x -> oo
+
+(1+k/x)^x = e^k, x-> oo
+
+sin^-1 /x = 1, x -> 0
+
+sinx/x = 1, x -> 0
+
+tanx/x = 1, x-> 0
