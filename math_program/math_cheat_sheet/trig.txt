@@ -1,0 +1,69 @@
+liron trig cheat sheet
+
+Right triangle definition 
+
+sin = opposite/hypotenuse
+cos = adjacent/hypotenuse
+tan = opposite/adjacent
+csc = hypotenuse/opposit
+sec = hypotenuse/adjacent
+cot = adjacent/opposit
+
+Unit circle definition
+
+sin = y
+cos = x 
+tan = y/x
+csc = 1/y
+sec = 1/x
+cot = x/y
+
+Domain
+
+The domain is all the values of q that 
+can be plugged into the function.
+
+sin, angle can be any angle 
+cos, angle can be any angle 
+tan, angle can not be (n + 0.5)*pi n = 0, +-1, +-2, ...
+
+Range
+
+The range is all possible values to get 
+out of the function. 
+-1 <= sin <=1  csc >=1 and csc <= -1
+-1 <= cos <= 1 sec>= 1 and sec <= -1
+ -ainfinty < tan < ainfinty
+
+Pythagorean Identities
+cos^ + sin^2 = 1
+tan^2 + 1 = sec^2
+1 + cot^2 = csc^2
+
+Tangent and Cotangent Identities
+
+tan = sin/cos, cot = cos/sin
+
+Reciprocal Identities
+
+csc = 1/sin, sin = 1/csc
+sec = 1/cos, cos = 1/sec
+cot = 1/tan, tan=1/cot
+
+Half Angle Formulas
+
+sin(x/2) = +-sgrt(1-cos(x)/2)
+cos(x/2) = =-sgrt(1+cos(x)/2)
+tan(x/2) = +-sgrt(1-cos(x)/1+cos(x))
+
+Sum and Difference Formulas
+
+sin(a +- b) = sin(a)*cos(b) +- cos(a)*sin(b)
+cos(a+-b) =  cos(a)*cos(b) +- sin(a)*sin(b)
+
+Even/Odd Formulas
+
+sin(-x) = -sin(x) csc(-x) = -csc(x)
+cos(-x) = cos(x)  sec(-x) = sec(x)
+tan(-x) = -tan(x) cot(-x) = -cot(x)
+

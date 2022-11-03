@@ -1,0 +1,14 @@
+liron integral cheat sheet
+
+
+integral of x is x^2 /2 + c
+
+integral of number is number * x + c 
+
+integral of x^n = x^(n+ 1)/n + 1 + c
+
+integral of e^(a*x) = e^(a*x) / a + c
+
+integral of cos = sin + c
+
+integral of sin = - cos + c 
