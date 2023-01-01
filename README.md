@@ -253,7 +253,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ### about the project:
  
- math program using tkinter, threding, numpy, sympy, matplotlib and PIL. when every subject in mathematics is a world. When I did three worlds. The trig world, the world of integrals, and the world of limits. Three important branches of mathematics. When in the trig world there are calculations of degrees to radians. In addition, there is a place where you enter a trigonometric function that you want with the parameters that you want and it creates a separate page for you with the function. And in addition there is the use of a file system in which I prepared a summary for each topic and you can write in it and move between the summaries. In the world of limits there is the definition of lim. and a calculator for calculating limits. You enter the function and the point where you want the limit to be calculated and it calculates it for you even if you want infinity. In the world of integrals you have an integral calculator. where you can write the function you want to integrate and its limits and it calculates it for you. I really enjoyed checking out this project as I learned a lot from it.
+ math program using tkinter, threding, numpy, sympy, matplotlib and PIL. when every subject in mathematics is a world. When I did three worlds. The trig world, the world of integrals, and the world of limits. Three important branches of mathematics. When in the trig world there are calculations of degrees to radians. In addition, there is a place where you enter a trigonometric function that you want with the parameters that you want and it creates a separate page for you with the function. And in addition there is the use of a file system in which I prepared a summary for each topic and you can write in it and move between the summaries. In the world of limits there is the definition of lim. and a calculator for calculating limits. You enter the function and the point where you want the limit to be calculated and it calculates it for you even if you want infinity. In the world of integrals you have an integral calculator. where you can write the function you want to integrate and its limits and it calculates it for you. I really enjoyed building out this project as I learned a lot from it.
 
 ### pictures of the project:
 
@@ -271,7 +271,39 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ### about the project:
  
- a simple password manager
+ a simple password manager when you can do a search for passwords for websites you have previously entered information on, you can enter passwords for new websites and even ask the software to generate a random password for you
 
 ### pictures of the project:
 
+![image](https://user-images.githubusercontent.com/91504420/210185938-d9085de9-df1d-48af-a2a1-51c181263fee.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185955-7e4e29e7-9997-4e29-a918-ee4783228063.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185966-a3331c83-07d6-46bf-9ac0-a4972c0b39d7.png)
+
+## project 2️⃣3️⃣ -> pomodoro program
+
+### about the project:
+ 
+A graphical application that implements the Pomodoro method - time management method
+and the method say you need to set timer to 25 minutes and focus on a single task until the time stops after that you can enjoy 5 min break after four like this you can take a longer break for 15 - 30 min. and this what the porgram do. 
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210186299-44d8f12e-26b0-4f16-8b4e-2a3a1f69332a.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210186306-69967771-293c-4b2c-8f8c-a2beb69b4e0a.png)
+
+## project 2️⃣4️⃣ -> tindog website
+
+### about the project:
+ 
+ tinder for dogs website with bootstrap html and css and python as backend.
+ 
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210186944-bcd8c53d-79bc-4cde-8234-567d4a07078a.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210187047-00b1c30b-f8b5-446a-a30b-c67962fc3f4d.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210187059-cd3d1307-4b7e-4f04-b4f5-9edfc9d86f31.png)
