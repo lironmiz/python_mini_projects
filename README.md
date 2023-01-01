@@ -307,3 +307,13 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 ![image](https://user-images.githubusercontent.com/91504420/210187047-00b1c30b-f8b5-446a-a30b-c67962fc3f4d.png)
 
 ![image](https://user-images.githubusercontent.com/91504420/210187059-cd3d1307-4b7e-4f04-b4f5-9edfc9d86f31.png)
+
+## project 2️⃣5️⃣ -> rock paper scissors game
+
+### about the project:
+ 
+ classic terminal rock paper scissors game 
+ 
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210187472-0eb18c24-0208-485b-8b2a-6368fc86782a.png)
