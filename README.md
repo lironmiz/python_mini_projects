@@ -162,12 +162,116 @@ gui quiz game where you have 10 questions that are randomly selected from a ques
 
 ### about the project:
  
-gui quiz game where you have 10 questions that are randomly selected from a question pool, all questions are true or false questions.and the score of the user is save and go up by one each correct question and bulid with principles of oop
+gui pong game Like the well-known favorite game where the speed of the ball increases every time someone wins a point is built with oop principles
 
 ### pictures of the project:
 
-![image](https://user-images.githubusercontent.com/91504420/210177874-08e5bbc0-cda1-4f2a-a355-d29e4e362dfc.png)
+![image](https://user-images.githubusercontent.com/91504420/210183192-7eb062e1-7b99-4c9d-9e4a-02ce03da314c.png)
 
-![image](https://user-images.githubusercontent.com/91504420/210177893-c520a9a6-7455-4629-88b0-5be20e4cf9ce.png)
+![image](https://user-images.githubusercontent.com/91504420/210183197-38a18bec-1406-4d4a-bba3-3364e011c3c8.png)
 
+## project 1️⃣5️⃣ -> simple converter 
+
+### about the project:
+ 
+gui converter that convert mile to kilometers.
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210183257-796b5e82-0139-49fe-b887-e772e529e741.png)
+
+## project 1️⃣6️⃣ -> fizz buzz program
+
+### about the project:
+ 
+gui fizz buzz program using tkinter, threading and mathematics and with given a number, the program returns all numbers from zero to the number that divides the number without a remainder
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210183385-7db126d1-c92e-4efb-8b84-73e43c851377.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210183426-58816d31-cdc5-48b3-b973-0e1a6dda00e7.png)
+
+## project 1️⃣7️⃣ -> gender age guss website
+
+### about the project:
+ 
+ A site whose server is written in python with flask and the frontend with html5 in use with an api that you enter a name for and it with the help of an api makes an assessment of your gender and your age and shows it to you on the screen with nice gifs.
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210183786-59644836-0fe8-4a39-9c76-dc455d4f2e51.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210183866-f2d2c440-9d88-43d4-9fc3-e1dc7493e985.png)
+
+
+![image](https://user-images.githubusercontent.com/91504420/210183854-b48561cf-bd76-450d-9b6b-31988819f1ff.png)
+
+## project 1️⃣8️⃣ -> higher lower site 
+
+### about the project:
+ 
+ A site whose server is written in python with flask and the frontend with html5 with the user need to guess a number between 1 and 10 when each guess is shown to the user if his guess is correct higher or lower combined with a suitable and nice gif
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210184061-f36d57ba-8482-4813-bf28-1df004e38d48.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184068-70fe8187-5e2d-496b-af56-6ac335248b4d.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184077-c8eb52e5-8020-4cf9-91d1-1bbd79d22fe3.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184091-4ce98cb2-c58a-4427-a88f-5f4f45b2f542.png)
+
+## project 1️⃣9️⃣ -> kanye quotes program 
+
+### about the project:
+ 
+ a simple program that show quotes of kanye using tkinter and api to get the quotes.
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210184207-7f168100-4463-46ef-8505-40b62a39b1cd.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184229-74355580-5a74-434c-889a-93687ddd6d9e.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184241-9eb33373-1ac6-46f2-9bd4-a9eee4a69752.png)
+
+## project 2️⃣0️⃣ -> my blog website 
+
+### about the project:
+ 
+ a simple blog website using flask and python as as a server language and for frontend it use html5 and css3
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210184450-db4d8546-7c0e-4d74-98f8-9194d1c8f55e.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210184480-e57133d6-cd7c-4100-9e59-88cc5f38005d.png)
+
+## project 2️⃣1️⃣ -> math program
+
+### about the project:
+ 
+ math program using tkinter, threding, numpy, sympy, matplotlib and PIL. when every subject in mathematics is a world. When I did three worlds. The trig world, the world of integrals, and the world of limits. Three important branches of mathematics. When in the trig world there are calculations of degrees to radians. In addition, there is a place where you enter a trigonometric function that you want with the parameters that you want and it creates a separate page for you with the function. And in addition there is the use of a file system in which I prepared a summary for each topic and you can write in it and move between the summaries. In the world of limits there is the definition of lim. and a calculator for calculating limits. You enter the function and the point where you want the limit to be calculated and it calculates it for you even if you want infinity. In the world of integrals you have an integral calculator. where you can write the function you want to integrate and its limits and it calculates it for you. I really enjoyed checking out this project as I learned a lot from it.
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210185139-c1734e0c-2a09-457c-9d6b-75184098e109.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185199-5369849c-b03c-4e51-a008-326229f319d0.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185263-7b0cb087-f776-4fd3-bdaa-d6729c58ec88.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185360-83e9c791-23e8-4b41-ab73-726bba3df975.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210185445-c39e9562-6749-458c-8073-39efb5c945d3.png)
+
+## project 2️⃣2️⃣ -> password manager
+
+### about the project:
+ 
+ a simple password manager
+
+### pictures of the project:
 
