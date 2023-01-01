@@ -113,3 +113,61 @@ gui draw desktop app under the control of the keyboard when the user has options
 ### pictures of the project:
 
 ![image](https://user-images.githubusercontent.com/91504420/210164835-a1b0af18-fedd-4943-ab6e-bf74d9d38939.png)
+
+## project 1️⃣0️⃣ -> clock
+
+### about the project:
+
+basic gui clock program that show the current time and updated each minute.
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210176265-0b2ed792-40d8-4cd0-ab94-e9d3a32d64f9.png)
+
+## project 1️⃣1️⃣ -> turtle crossy road 
+
+### about the project:
+
+gui game similar to the popular game crossy road when you can only move forward and you have to escape from blocks that are created in random positions on the screen with random colors and you have to move forward while avoiding collision with them when there are stages and when their speed stage increases. also the game was build with principles of oop
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210176591-2f8ea2eb-4888-4e00-a770-1deec35d434c.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210176600-ea4d9e2e-8678-44f8-81ac-3a03f9d359dd.png)
+
+## project 1️⃣2️⃣ -> snake game
+
+### about the project:
+
+gui snake game like the classic and beloved game you can move forward with the arrows right up left and down and you have to eat an apple to increase the length of the snake and not hit the borders of the screen and yourself and the best score is save in data.txt file and bulid with principles of oop
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210177105-ee9201f7-0bc5-40fc-8f3d-e08a6a71349d.png)
+
+## project 1️⃣3️⃣ -> quiz app
+
+### about the project:
+ 
+gui quiz game where you have 10 questions that are randomly selected from a question pool, all questions are true or false questions.and the score of the user is save and go up by one each correct question and bulid with principles of oop
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210177874-08e5bbc0-cda1-4f2a-a355-d29e4e362dfc.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210177893-c520a9a6-7455-4629-88b0-5be20e4cf9ce.png)
+
+## project 1️⃣4️⃣ -> pong game 
+
+### about the project:
+ 
+gui quiz game where you have 10 questions that are randomly selected from a question pool, all questions are true or false questions.and the score of the user is save and go up by one each correct question and bulid with principles of oop
+
+### pictures of the project:
+
+![image](https://user-images.githubusercontent.com/91504420/210177874-08e5bbc0-cda1-4f2a-a355-d29e4e362dfc.png)
+
+![image](https://user-images.githubusercontent.com/91504420/210177893-c520a9a6-7455-4629-88b0-5be20e4cf9ce.png)
+
+
