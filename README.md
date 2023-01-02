@@ -1,4 +1,4 @@
-# python_mini_projects
+# python_mini_projects 🐍
 my python mini projects as part of 100 days of code course on udemy and some of them just for fun🤯.
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
