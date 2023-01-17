@@ -1,10 +1,17 @@
-# python_mini_projects 🐍
+<h1 align="center"> 🐍 python_mini_projects 🐍 </h1>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+
 my python mini projects as part of 100 days of code course on udemy and some of them just for fun🤯.
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 <br>
 ![](https://img.shields.io/tokei/lines/github/lironmiz/python_mini_projects?color=red&label=Lines%20of%20Code)
 ![Size](https://img.shields.io/github/repo-size/lironmiz/python_mini_projects?color=red&label=Repo%20Size%20)
+
+![image](https://user-images.githubusercontent.com/91504420/212911957-b12ef080-cc73-414b-af52-6c50939e0fcf.png)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 some of the projects:
 
@@ -317,3 +324,5 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 ### pictures of the project:
 
 ![image](https://user-images.githubusercontent.com/91504420/210187472-0eb18c24-0208-485b-8b2a-6368fc86782a.png)
+
+<img src="https://media.giphy.com/media/Pla0PNdXVHbqlEmiy4/giphy.gif" >
