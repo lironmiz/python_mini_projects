@@ -9,13 +9,18 @@ my python mini projects as part of 100 days of code course on udemy and some of 
 ![](https://img.shields.io/tokei/lines/github/lironmiz/python_mini_projects?color=red&label=Lines%20of%20Code)
 ![Size](https://img.shields.io/github/repo-size/lironmiz/python_mini_projects?color=red&label=Repo%20Size%20)
 
+#  The Graduation Certificate ⚜️
+
 ![image](https://user-images.githubusercontent.com/91504420/212911957-b12ef080-cc73-414b-af52-6c50939e0fcf.png)
+
+![ItsOfficialGIF](https://user-images.githubusercontent.com/91504420/213181015-4098c4d8-4092-4608-bcdf-162f1d40a90e.gif)
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
-some of the projects:
+# Some Of The Projects 🎊
 
-## project 1️⃣ -> sudoku solver 
+## Project 1️⃣ -> Sudoku Solver 
 
 ### about the project:
 
@@ -25,7 +30,7 @@ a simple program that solve sudoku. you enter the state of the sudoku at the sta
 
 ![image](https://user-images.githubusercontent.com/91504420/210162750-8c9ad336-65b8-42c6-b681-78ed2b54eff9.png)
 
-## project 2️⃣ -> calcluter
+## Project 2️⃣ -> Calcluter
 
 ### about the project:
 
@@ -37,7 +42,7 @@ basic gui calcluter using tkinter.
 
 ![image](https://user-images.githubusercontent.com/91504420/210162853-a4b7a495-b7ed-4e06-9bd5-365399445213.png)
 
-## project 3️⃣ -> QR code generater
+## Project 3️⃣ -> QR Code Generater
 
 ### about the project:
 
@@ -49,19 +54,19 @@ basic gui for generate qr code for links or text using pyqrcode and tkinter.
 
 ![WhatsApp Image 2023-01-01 at 08 46 47](https://user-images.githubusercontent.com/91504420/210163065-1c20d333-12d2-479c-9136-484afd058bd2.jpg)
 
-## project 4️⃣ -> us states game
+## Project 4️⃣ -> Us States Game
 
 ### about the project:
 
 basic gui game using pandas and turtle When it is based on the countries in America, when the user is asked to enter as many names of countries that he remembers in America, and if he entered the name of a valid country, the name appears in its location on the map, and at the end a csv file of countries is created that the user needs to learn. 
 
-### pictures of the project:
+### Pictures Of The Project:
 
 ![image](https://user-images.githubusercontent.com/91504420/210163591-bb0aaa2f-b3ed-4d54-b8ac-6fdb21756fee.png)
 
 ![image](https://user-images.githubusercontent.com/91504420/210163597-da49d47c-12b8-42c2-b325-9bed5eb237e5.png)
 
-## project 5️⃣ -> turtles race game
+## Project 5️⃣ -> Turtles Race Game
 
 ### about the project:
 
@@ -75,7 +80,7 @@ basic gui race game using turtle When there are 5 turtles of different colors an
 
 ![image](https://user-images.githubusercontent.com/91504420/210163859-2b7dfeaf-9d86-43f0-8591-9df55198fff3.png)
 
-## project 6️⃣ -> race game 
+## Project 6️⃣ -> Race Game 
 
 ### about the project:
 
@@ -89,7 +94,7 @@ basic gui race game using turtle When there are two players and each time a die 
 
 ![image](https://user-images.githubusercontent.com/91504420/210164053-cec71361-0d9a-4d15-b08e-efaaeb6547e3.png)
 
-## project 7️⃣ -> spirograph
+## Project 7️⃣ -> Spirograph
 
 ### about the project:
 
@@ -101,7 +106,7 @@ basic gui spirograph created by using mathematics and geometry where the size of
 
 ![image](https://user-images.githubusercontent.com/91504420/210164182-0e3de85e-35f2-474f-ad00-743815d1ca68.png)
 
-## project 8️⃣ -> hirst panting
+## Project 8️⃣ -> Hirst Panting
 
 ### about the project:
 
@@ -111,7 +116,7 @@ basic gui art project in turtle that make hirst painting. hirst painting is a fa
 
 ![image](https://user-images.githubusercontent.com/91504420/210164340-2d2c9927-520c-4559-99ac-4755d62303e3.png)
 
-## project 9️⃣ -> draw program
+## Project 9️⃣ -> Draw Program
 
 ### about the project:
 
@@ -121,7 +126,7 @@ gui draw desktop app under the control of the keyboard when the user has options
 
 ![image](https://user-images.githubusercontent.com/91504420/210164835-a1b0af18-fedd-4943-ab6e-bf74d9d38939.png)
 
-## project 1️⃣0️⃣ -> clock
+## Project 1️⃣0️⃣ -> Clock
 
 ### about the project:
 
@@ -131,7 +136,7 @@ basic gui clock program that show the current time and updated each minute.
 
 ![image](https://user-images.githubusercontent.com/91504420/210176265-0b2ed792-40d8-4cd0-ab94-e9d3a32d64f9.png)
 
-## project 1️⃣1️⃣ -> turtle crossy road 
+## Project 1️⃣1️⃣ -> Turtle Crossy Road 
 
 ### about the project:
 
@@ -143,7 +148,7 @@ gui game similar to the popular game crossy road when you can only move forward 
 
 ![image](https://user-images.githubusercontent.com/91504420/210176600-ea4d9e2e-8678-44f8-81ac-3a03f9d359dd.png)
 
-## project 1️⃣2️⃣ -> snake game
+## Project 1️⃣2️⃣ -> Snake Game
 
 ### about the project:
 
@@ -153,7 +158,7 @@ gui snake game like the classic and beloved game you can move forward with the a
 
 ![image](https://user-images.githubusercontent.com/91504420/210177105-ee9201f7-0bc5-40fc-8f3d-e08a6a71349d.png)
 
-## project 1️⃣3️⃣ -> quiz app
+## Project 1️⃣3️⃣ -> Quiz App
 
 ### about the project:
  
@@ -165,7 +170,7 @@ gui quiz game where you have 10 questions that are randomly selected from a ques
 
 ![image](https://user-images.githubusercontent.com/91504420/210177893-c520a9a6-7455-4629-88b0-5be20e4cf9ce.png)
 
-## project 1️⃣4️⃣ -> pong game 
+## Project 1️⃣4️⃣ -> Pong Game 
 
 ### about the project:
  
@@ -177,7 +182,7 @@ gui pong game Like the well-known favorite game where the speed of the ball incr
 
 ![image](https://user-images.githubusercontent.com/91504420/210183197-38a18bec-1406-4d4a-bba3-3364e011c3c8.png)
 
-## project 1️⃣5️⃣ -> simple converter 
+## Project 1️⃣5️⃣ -> Simple Converter 
 
 ### about the project:
  
@@ -187,7 +192,7 @@ gui converter that convert mile to kilometers.
 
 ![image](https://user-images.githubusercontent.com/91504420/210183257-796b5e82-0139-49fe-b887-e772e529e741.png)
 
-## project 1️⃣6️⃣ -> fizz buzz program
+## Project 1️⃣6️⃣ -> Fizz Buzz Program
 
 ### about the project:
  
@@ -199,7 +204,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210183426-58816d31-cdc5-48b3-b973-0e1a6dda00e7.png)
 
-## project 1️⃣7️⃣ -> gender age guss website
+## Project 1️⃣7️⃣ -> Gender Age Guss Website
 
 ### about the project:
  
@@ -214,7 +219,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210183854-b48561cf-bd76-450d-9b6b-31988819f1ff.png)
 
-## project 1️⃣8️⃣ -> higher lower site 
+## Project 1️⃣8️⃣ -> Higher Lower Site 
 
 ### about the project:
  
@@ -230,7 +235,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210184091-4ce98cb2-c58a-4427-a88f-5f4f45b2f542.png)
 
-## project 1️⃣9️⃣ -> kanye quotes program 
+## Project 1️⃣9️⃣ -> Kanye Quotes Program 
 
 ### about the project:
  
@@ -244,7 +249,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210184241-9eb33373-1ac6-46f2-9bd4-a9eee4a69752.png)
 
-## project 2️⃣0️⃣ -> my blog website 
+## Project 2️⃣0️⃣ -> My Blog Website 
 
 ### about the project:
  
@@ -256,11 +261,19 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210184480-e57133d6-cd7c-4100-9e59-88cc5f38005d.png)
 
-## project 2️⃣1️⃣ -> math program
+## Project 2️⃣1️⃣ -> Math Program
 
 ### about the project:
  
- math program using tkinter, threding, numpy, sympy, matplotlib and PIL. when every subject in mathematics is a world. When I did three worlds. The trig world, the world of integrals, and the world of limits. Three important branches of mathematics. When in the trig world there are calculations of degrees to radians. In addition, there is a place where you enter a trigonometric function that you want with the parameters that you want and it creates a separate page for you with the function. And in addition there is the use of a file system in which I prepared a summary for each topic and you can write in it and move between the summaries. In the world of limits there is the definition of lim. and a calculator for calculating limits. You enter the function and the point where you want the limit to be calculated and it calculates it for you even if you want infinity. In the world of integrals you have an integral calculator. where you can write the function you want to integrate and its limits and it calculates it for you. I really enjoyed building out this project as I learned a lot from it.
+ math program using tkinter, threding, numpy, sympy, matplotlib and PIL. when every subject in mathematics is a world. When I did three worlds. The trig world, the world of integrals, and the world of limits. Three important branches of mathematics.
+ 
+When in the trig world there are calculations of degrees to radians. In addition, there is a place where you enter a trigonometric function that you want with the parameters that you want and it creates a separate page for you with the function.
+
+And in addition there is the use of a file system in which I prepared a summary for each topic and you can write in it and move between the summaries.
+
+In the world of limits there is the definition of lim. and a calculator for calculating limits. You enter the function and the point where you want the limit to be calculated and it calculates it for you even if you want infinity.
+
+In the world of integrals you have an integral calculator. where you can write the function you want to integrate and its limits and it calculates it for you. I really enjoyed building out this project as I learned a lot from it.
 
 ### pictures of the project:
 
@@ -274,7 +287,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210185445-c39e9562-6749-458c-8073-39efb5c945d3.png)
 
-## project 2️⃣2️⃣ -> password manager
+## Project 2️⃣2️⃣ -> Password Manager
 
 ### about the project:
  
@@ -288,7 +301,7 @@ gui fizz buzz program using tkinter, threading and mathematics and with given a 
 
 ![image](https://user-images.githubusercontent.com/91504420/210185966-a3331c83-07d6-46bf-9ac0-a4972c0b39d7.png)
 
-## project 2️⃣3️⃣ -> pomodoro program
+## Project 2️⃣3️⃣ -> Pomodoro Program
 
 ### about the project:
  
@@ -301,7 +314,7 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 
 ![image](https://user-images.githubusercontent.com/91504420/210186306-69967771-293c-4b2c-8f8c-a2beb69b4e0a.png)
 
-## project 2️⃣4️⃣ -> tindog website
+## Project 2️⃣4️⃣ -> Tindog Website
 
 ### about the project:
  
@@ -315,7 +328,7 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 
 ![image](https://user-images.githubusercontent.com/91504420/210187059-cd3d1307-4b7e-4f04-b4f5-9edfc9d86f31.png)
 
-## project 2️⃣5️⃣ -> rock paper scissors game
+## Project 2️⃣5️⃣ -> Rock Paper Scissors Game
 
 ### about the project:
  
@@ -325,4 +338,3 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 
 ![image](https://user-images.githubusercontent.com/91504420/210187472-0eb18c24-0208-485b-8b2a-6368fc86782a.png)
 
-<img src="https://media.giphy.com/media/Pla0PNdXVHbqlEmiy4/giphy.gif" >
