@@ -15,6 +15,38 @@ my python mini projects as part of 100 days of code course on udemy and some of 
 
 ![ItsOfficialGIF](https://user-images.githubusercontent.com/91504420/213181015-4098c4d8-4092-4608-bcdf-162f1d40a90e.gif)
 
+# Course Material: 
+ + Python 3 - the latest version of Python
+ + PyCharm, Jupter Notebook, Google Colab
+ + Python Scripting and Automation
+ + Python Game Developmenment
+ + Web Scraping
+ + Beautiful Soup
+ + Selenium Web Driver
+ + Request
+ + WTFormes
+ + Data Science
+ + Pandas
+ + NumPy
+ + Matplotlibe
+ + Plotly
+ + Scikit learn
+ + Seaborn
+ + Turtle
+ + Python GUI Desktop App Development
+ + Tkinter
+ + Front-End Web Development
+ + HTML 5
+ + CSS 3
+ + Bootstrap 4
+ + Bash Command Line
+ + Git, GitHub and Version Control
+ + Backend Web Development
+ + Flask
+ + REST
+ + APIs
+ + Databases
+ + SQL
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
