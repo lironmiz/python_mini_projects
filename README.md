@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h1 align="center"> 🐍 python_mini_projects 🐍 </h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
@@ -9,13 +10,36 @@ my python mini projects as part of 100 days of code course on udemy and some of 
 ![](https://img.shields.io/tokei/lines/github/lironmiz/python_mini_projects?color=red&label=Lines%20of%20Code)
 ![Size](https://img.shields.io/github/repo-size/lironmiz/python_mini_projects?color=red&label=Repo%20Size%20)
 
-#  The Graduation Certificate ⚜️
+<!-- Table of Contents -->
+<details>
+
+<summary>
+
+# :notebook_with_decorative_cover: Table of Contents
+
+</summary>
+
+- [The Graduation Certificate](#star2-the-graduation-certificate)
+- [Course Material](#books-course-material) 
+- [Some Of The Projects](#sparkles-some-of-the-projects)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
+
+</details>  
+
+<!-- The Graduation Certificate -->
+# :star2: The Graduation Certificate 
 
 ![image](https://user-images.githubusercontent.com/91504420/212911957-b12ef080-cc73-414b-af52-6c50939e0fcf.png)
 
 ![ItsOfficialGIF](https://user-images.githubusercontent.com/91504420/213181015-4098c4d8-4092-4608-bcdf-162f1d40a90e.gif)
 
-# Course Material: 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Course Material -->
+
+# :books: Course Material
  + Python 3 - the latest version of Python
  + PyCharm, Jupter Notebook, Google Colab
  + Python Scripting and Automation
@@ -48,9 +72,13 @@ my python mini projects as part of 100 days of code course on udemy and some of 
  + Databases
  + SQL
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
-# Some Of The Projects 🎊
+<!-- Some Of The Projects -->
+
+# :sparkles: Some Of The Projects
 
 ## Project 1️⃣ -> Sudoku Solver 
 
@@ -370,3 +398,36 @@ and the method say you need to set timer to 25 minutes and focus on a single tas
 
 ![image](https://user-images.githubusercontent.com/91504420/210187472-0eb18c24-0208-485b-8b2a-6368fc86782a.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Contact -->
+# :handshake: Contact
+
+<p align="left">
+<a href="https://twitter.com/liron_mizrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liron_mizrahi" height="50" width="60" /></a>
+<a href="https://instagram.com/liron.mizrhai1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liron.mizrhai1234" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/%D7%9C%D7%99%D7%A8%D7%95%D7%9F-%D7%9E%D7%96%D7%A8%D7%97%D7%99-1050b421a/">
+  <img align="left" alt="liron LinkedIN" height="50" width="60" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Acknowledgements -->
+# :gem: Acknowledgements
+
+Links to information that helped me during construction and learning:
+
+ - [python3](https://docs.python.org/3/)
+ - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+ - [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
+ - [requests](https://requests.readthedocs.io/en/latest/) 
+ - [pandas](https://pandas.pydata.org/docs/)
+ - [matplotlib](https://matplotlib.org/stable/index.html) 
+ - [tkinter](https://docs.python.org/3/library/tk.html)  
+ - [bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+ - [html](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+ - [css](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+ - [flask](https://flask.palletsprojects.com/en/2.2.x/)  
+ 
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
